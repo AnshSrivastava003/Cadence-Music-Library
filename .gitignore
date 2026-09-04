@@ -1,0 +1,7 @@
+**/target/
+data/
+logs/
+.local/
+config/local.ps1
+.idea/
+*.iml
