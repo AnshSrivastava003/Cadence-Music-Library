@@ -2,6 +2,26 @@
 
 A Java microservices music library with a responsive HTML/CSS/JavaScript frontend. Built for learning, demonstrating, and extending. All source files are included; no code generator or proprietary service is required to run it.
 
+## Application preview
+
+### Discover music
+
+Browse and play the curated library through a responsive, accessible interface.
+
+![Cadence discover page](docs/screenshots/discover.png)
+
+### Personal playlists
+
+Signed-in listeners can create playlists, search within them and manage saved tracks.
+
+![Cadence playlists page](docs/screenshots/playlists.png)
+
+### Library administration
+
+Administrators can add and edit metadata, control track visibility and remove songs.
+
+![Cadence manage library page](docs/screenshots/manage-library.png)
+
 ## Start on Windows
 
 1. Extract the entire ZIP to a NEW folder, for example `Documents\cadence-complete`. Do not overwrite your earlier learning project. Prefer a folder outside OneDrive for the running database.
