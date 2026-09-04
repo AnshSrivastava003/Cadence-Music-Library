@@ -8,7 +8,7 @@ A Java microservices music library with a responsive HTML/CSS/JavaScript fronten
 
 Browse and play the curated library through a responsive, accessible interface.
 
-![Cadence discover page](docs/screenshots/discover.png)
+![Cadence discover page](docs/screenshots/discover-page.png)
 
 ### Personal playlists
 
