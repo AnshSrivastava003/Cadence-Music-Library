@@ -2,6 +2,16 @@
 
 A Java microservices music library with a responsive HTML/CSS/JavaScript frontend. Built for learning, demonstrating, and extending. All source files are included; no code generator or proprietary service is required to run it.
 
+## Live portfolio demo
+
+**[Open Cadence in your browser](https://anshsrivastava003.github.io/Cadence-Music-Library/)**
+
+The free hosted version is an interactive frontend demonstration. Its accounts, playlists, notifications and library changes are stored only in the visitor's browser. The complete Spring Boot microservices application described below runs locally with `Start.cmd`.
+
+- Create a listener account with any demo email and a password of at least 10 characters.
+- To review admin screens, use `admin@cadence.demo` / `cadence-demo`.
+- Do not enter a real password or sensitive information in the portfolio demo.
+
 ## Application preview
 
 ### Discover music
